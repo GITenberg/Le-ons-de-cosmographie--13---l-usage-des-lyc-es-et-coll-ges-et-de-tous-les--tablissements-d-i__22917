@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25598'
     url: http://www.gutenberg.org/2009/agents/25598
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22917#Le-ons-de-cosmographie--13---l-usage-des-lyc-es-et-coll-ges-et-de-tous-les--tablissements-d-i_
 gutenberg_bookshelf:
 - FR Sciences et Techniques
 - FR Education et Enseignement
